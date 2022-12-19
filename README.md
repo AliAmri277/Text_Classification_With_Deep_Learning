@@ -12,3 +12,19 @@ thus, causing the waste of time and resources due to this arduous task. Hence,
 your job as a machine learning engineer is tasked to categorize unseen
 articles into 5 categories namely Sport, Tech, Business, Entertainment and
 Politics.
+
+#### 1. Import modules
+
+#### 2. Data Loading
+        -Load dataset by using pd.read_csv()
+
+#### 3. Data Inspection/Visualization
+        -Inspect the the data info for the type of data, duplicates and missing data.
+
+#### 4. Data Cleaning
+        -Use Regext to remove unwanted characters.
+       
+#### 4. Data Preprocessing
+        - Used Tokenizer and Pad_sequences to normalize features
+        - The target was normalized by using One Hot Encoding
+
